@@ -2,7 +2,7 @@ Summary:	Beneath a Steel Sky
 Summary(pl):	Pod stalowym niebem
 Name:		bass
 Version:	1.0
-Release:	1
+Release:	2
 License:	Freeware
 Group:		Applications/Games
 Source0:	http://dl.sourceforge.net/scummvm/BASS-CD.zip
