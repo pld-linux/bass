@@ -13,6 +13,7 @@ Source2:	http://www.the-underdogs.org/games/b/bass/files/%{name}-comics.zip
 # Source2-md5:	db9e011bcbaca177de8d3346214b0288
 URL:		http://www.revolution.co.uk/_display.php?id=16
 Requires:	scummvm >= 0.5.0
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
