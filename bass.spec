@@ -5,7 +5,7 @@ Version:	1.0
 Release:	1
 License:	Freeware
 Group:		Applications/Games
-Source0:	http://dl.sf.net/scummvm/BASS-CD.zip
+Source0:	http://dl.sourceforge.net/scummvm/BASS-CD.zip
 # Source0-md5:	18f9045e90d56fdfc3263b7f264791fd
 Source1:	http://www.the-underdogs.org/games/b/bass/files/%{name}.pdf
 # Source1-md5:	2c1bcc3ca452708aa803b0948a431a92
