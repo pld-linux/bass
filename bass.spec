@@ -5,9 +5,11 @@ Release:	1
 License:	Freeware (not sure about manual and comics)
 Group:		Applications/Games
 Source0:	http://dl.sf.net/scummvm/BASS-CD.zip
-# Source0-md5: 18f9045e90d56fdfc3263b7f264791fd
+# Source0-md5:	18f9045e90d56fdfc3263b7f264791fd
 Source1:	http://www.the-underdogs.org/games/b/bass/files/%{name}.pdf
+# Source1-md5:	2c1bcc3ca452708aa803b0948a431a92
 Source2:	http://www.the-underdogs.org/games/b/bass/files/%{name}-comics.zip
+# Source2-md5:	db9e011bcbaca177de8d3346214b0288
 URL:		http://www.revolution.co.uk/_display.php?id=16
 Requires:	scummvm >= 0.5.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
