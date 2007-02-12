@@ -1,5 +1,5 @@
 Summary:	Beneath a Steel Sky
-Summary(pl.UTF-8):   Pod stalowym niebem
+Summary(pl.UTF-8):	Pod stalowym niebem
 Name:		bass
 Version:	1.0
 Release:	2
